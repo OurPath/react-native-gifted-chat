@@ -56,7 +56,7 @@
     "moment": "^2.19.0",
     "react-native-communications": "2.2.1",
     "react-native-invertible-scroll-view": "git://github.com/OurPath/react-native-invertible-scroll-view.git#1.1.2",
-    "react-native-lightbox": "OurPath/react-native-lightbox",
+    "react-native-lightbox": "OurPath/react-native-lightbox#1379529705a684c04d7846a24c6895132b636788",
     "react-native-parsed-text": "^0.0.20",
     "shallowequal": "1.0.2",
     "uuid": "3.2.1"
